@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = vasudeva
+vasudeva
+student
 
 Show Contacts
 
 Email
-richard@example.com
+rayuduvasudeva1432@gmail.com
 
 Phone
-+1 (213) 352-2795
+8897568932
 
 Birthday
-June 23, 1982
+28 May, 2005
 
 Location
-Sacramento, California, USA
+Kakinada
 
 # navbar
 
@@ -62,21 +62,21 @@ I make high-quality photos of any category at a professional level.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = vasudeva
+vasudeva
+vasudeva was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Jessica Miller
+Jessica Miller
+Jessica was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Emily Evans
+Emily Evans
+Emily was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = vasudeva
+vasudeva
+vasudeva was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
 
 
 ## clients
@@ -93,31 +93,25 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+ZPPH School Kuyyeru
+2016 — 2020
+Completed secondary education at ZPPH School, Kuyyeru.
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Intermediate (Open School)
+2021 — 2022
+Completed intermediate education through open school.
+
+B.Tech CSE, MVR College
+2023 — 2027
+Pursuing Bachelor of Technology in Computer Science and Engineering at MVR College.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+No Experience
+Fresher
+I am a fresher and currently have no professional experience.
 
 My skills
 
